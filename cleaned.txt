@@ -5,9 +5,9 @@
    runnable btw
  other stuff:
 
-dump https://raw.githubusercontent.com/3-7x/farts/refs/heads/main/Runnable_Aspect_Dump.txt
-source https://raw.githubusercontent.com/3-7x/farts/refs/heads/main/obf%20source.txt
-loader https://raw.githubusercontent.com/3-7x/farts/refs/heads/main/silly%20loader.txt
+dump https://raw.githubusercontent.com/3-7x/fnuuy/refs/heads/main/Runnable_Aspect_Dump.txt
+source https://raw.githubusercontent.com/3-7x/fnuuy/refs/heads/main/obf%20source.txt
+loader https://raw.githubusercontent.com/3-7x/fnuuy/refs/heads/main/silly%20loader.txt
 
 -- /=/=/=/=/=/=/=/=/ ]]
 
