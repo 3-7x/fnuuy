@@ -1,9 +1,16 @@
--- /=/=/=/=/=/=/=/=/
--- wow
--- ai cleaned code cuz wanted to
--- @1.954
--- runnable btw
--- /=/=/=/=/=/=/=/=/
+--[[  /=/=/=/=/=/=/=/=/
+     wow 
+  ai cleaned code cuz wanted to
+ dc @1.954
+   runnable btw
+ other stuff:
+
+dump https://raw.githubusercontent.com/3-7x/farts/refs/heads/main/Runnable_Aspect_Dump.txt
+source https://raw.githubusercontent.com/3-7x/farts/refs/heads/main/obf%20source.txt
+loader https://raw.githubusercontent.com/3-7x/farts/refs/heads/main/silly%20loader.txt
+
+-- /=/=/=/=/=/=/=/=/ ]]
+
 local Config = {
 AutoReapply = true,
 MapPersist = true,
